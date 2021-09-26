@@ -1,2 +1,2 @@
 node_modules/
-package-lock.jsongit rm --cached my-app
+package-lock.json
